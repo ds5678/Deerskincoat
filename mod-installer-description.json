@@ -4,20 +4,22 @@
 	"url": "https://github.com/nbakulev/Deerskincoat",
 	"releases": [
 		{
-			"version": "1.0",
-			"url": "https://github.com/nbakulev/Deerskincoat/releases/tag/v1.0",
+			"version": "1.1",
+			"url": "https://github.com/nbakulev/Deerskincoat/releases/tag/v1.1",
 			"changes": "",
 			"dependencies": [
 				{
 					"name": "ModComponent",
-					"version": "^2.0.0"
+					"version": "^3.0.1"
 				}
 			],
 			"assets": [
 				{
-					"url": "https://github.com/nbakulev/Deerskincoat/releases/download/v1.0/deerskincoat.zip"
+					"url": "https://github.com/nbakulev/Deerskincoat/releases/download/v1.1/deerskincoat.zip"
 				}
 			]
+		},{
+			"version": "1.0"
 		}
 	]
 }
